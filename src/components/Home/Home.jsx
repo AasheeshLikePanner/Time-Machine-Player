@@ -25,7 +25,7 @@ export default function Home(){
                 </p>
             </div>
             <div className="px-6 py-4">
-                <a href="#" className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Github</a>
+                <a href="https://github.com/AasheeshLikePanner/Time-Machine-Player/tree/main" className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Github</a>
             </div>
 
         
