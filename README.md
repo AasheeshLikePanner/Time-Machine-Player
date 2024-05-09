@@ -26,10 +26,10 @@ The Application helps you to time travel and enjoy the music from past and Also 
 https://github.com/AasheeshLikePanner/Time-Machine-Player/assets/126905285/8892061c-1ba6-4f52-92c2-ba84f3f6a8e5
 
 <h2>About</h2>
-<p>Time Travel Music Player is developed by me using Appwrite, React, Redux, React.js, Material-UI, Tailwind CSS. The application leverages modern web technologies to deliver a seamless and engaging experience for users interested in exploring the diverse landscape of music history.</p>
+<p>The Way Way Machine is developed by me using Appwrite, React, Redux, React.js, Material-UI, Tailwind CSS. The application leverages modern web technologies to deliver a seamless and engaging experience for users interested in exploring the diverse landscape of music history.</p>
 
 <h2>Feedback</h2>
-<p>We value your feedback! If you have any suggestions, questions, or encounter any issues while using Time Travel Music Player, please don't hesitate to reach out to us. Your input helps us improve the application and enhance the overall user experience.</p>
+<p>We value your feedback! If you have any suggestions, questions, or encounter any issues while using The Way Way Machine, please don't hesitate to reach out to us. Your input helps us improve the application and enhance the overall user experience.</p>
 
 <h2>Legal</h2>
-<p>Please note that Time Travel Music Player is intended for entertainment purposes only. The concept of time travel is purely fictional, and this application does not enable actual time travel. All music content is sourced from legal and authorized sources.</p>
+<p>All music content is sourced from legal and authorized sources.</p>
